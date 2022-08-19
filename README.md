@@ -1,4 +1,5 @@
  # [TODO List App](https://jeanaica.github.io/)
+  - deployed on this [link](https://jeanaica.github.io/)
 
  Tech stack used
     - Create React App
