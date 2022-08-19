@@ -19,7 +19,13 @@
 3. install dependencies by running `npm install`
 
 ### How to run tests
-- `npm run test`
+- `npm run test` - normal tests using jest
+- `npm run test:coverage` - to run tests with coverage
+
+## How to run view test coverage
+1. run `npm run test:coverage` inside project folder
+2. go to `coverage\lcov-report` and open `index.html` in your browser.
+3. it should somehow look similar to [this](https://drive.google.com/file/d/1l8Vdr09BdexQDDiTBByp-df6_eu6uu_b/view?usp=sharing)
 
 ### How to run app
 - `npm start`
