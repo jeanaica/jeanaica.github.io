@@ -7,7 +7,5 @@ describe('Container' , () => {
 
         expect(screen.getByTestId('container')).toBeTruthy();
         expect(screen.getByText('Henlo')).toBeVisible();
-
-
     })
 })
